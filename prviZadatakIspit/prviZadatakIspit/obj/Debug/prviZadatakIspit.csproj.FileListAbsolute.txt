@@ -1,0 +1,11 @@
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\bin\Debug\prviZadatakIspit.exe.config
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\bin\Debug\prviZadatakIspit.exe
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\bin\Debug\prviZadatakIspit.pdb
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.csprojAssemblyReference.cache
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.Form1.resources
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.Form2.resources
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.Properties.Resources.resources
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.csproj.GenerateResource.cache
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.csproj.CoreCompileInputs.cache
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.exe
+C:\Users\Učenik09\source\repos\prviZadatakIspit\prviZadatakIspit\obj\Debug\prviZadatakIspit.pdb
